@@ -2,7 +2,10 @@
 
 A simple script that uploads [Apple (iCloud) Notes](https://www.icloud.com/notes) as [Quip](https://quip.com/) documents.
 
-To use the script:
+## Prerequisite
+Python 2.x
+
+## Use the script
 
 1. Get your [Quip API access token](https://quip.com/api/personal-token)
 2. If you don't have `argparse` installed, install it or run `pip install -r requirements.txt`
